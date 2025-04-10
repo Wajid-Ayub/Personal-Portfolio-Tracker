@@ -1,0 +1,17 @@
+{
+    "AAPL": {
+        "shares": 500.0,
+        "buy_price": 215.0,
+        "added_date": "2025-03-20"
+    },
+    "CCS": {
+        "shares": 65.0,
+        "buy_price": 766.0,
+        "added_date": "2025-03-20"
+    },
+    "GOOGL ": {
+        "shares": 23.0,
+        "buy_price": 432.0,
+        "added_date": "2025-03-20"
+    }
+}
